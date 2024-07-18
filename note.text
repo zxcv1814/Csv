@@ -1,0 +1,9 @@
+npm init
+npm install --save-dev nodemon
+npm install express --save
+npm install mongodb --save
+mongodb+srv://dongquang:<HWGxBa7ni6UVE6JY>@table.mc0oyvt.mongodb.net/
+npm install mongodb csv-parser
+npm install fast-csv
+C:\\Users\\quang\\OneDrive\\Desktop\\table\\csv.csv
+npm install mongodb csv-parser fs
